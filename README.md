@@ -1,8 +1,8 @@
 # FullBodyIKTest
 ## ■概要
-UE5のFullBodyIKの調整を行ったプロジェクトになります。
-調整した内容については下記リンクのブログに記載されています。
-()
+UE5のFullBodyIKの調整を行ったプロジェクトになります。  
+調整した内容については下記リンクのブログに記載されています。  
+<https://argonauts.hatenablog.jp/entry/2021/10/10/205132>
 
 ## ■開始前の準備
 UE5のFullbodyIKをONにしておく必要があります。  
