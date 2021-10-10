@@ -4,6 +4,9 @@ UE5のFullBodyIKの調整を行ったプロジェクトになります。
 調整した内容については下記リンクのブログに記載されています。  
 <https://argonauts.hatenablog.jp/entry/2021/10/10/205132>
 
+## ■更新履歴
+10/10 V1.0.0
+
 ## ■開始前の準備
 UE5のFullbodyIKをONにしておく必要があります。  
 ![PluginSetting](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20210713/20210713214523.jpg)
@@ -33,6 +36,9 @@ Content>Mannequin>Character>Mesh
 ![lowerarm](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010203509.png)
 ![upperarm](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010174630.png)
 ![clavicle](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010175830.png)
+
+## ■その他
+動作しない等については概要リンクのブログにてコメントお願い致します。
 
 
 
