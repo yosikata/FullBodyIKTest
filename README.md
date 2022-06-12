@@ -18,17 +18,17 @@ Content>Mannequin>Character>Mesh
 
 ### ○細かいボーンの調整の説明(BoneSetting)
 ○ボーンの調整順  
-1. pelvis
-2. foot_l
-3. calf_l
-4. lowerarm_l
-5. upperarm_l
-6. clavicle_l
-7. foot_r
-8. calf_r
-9. lowerarm_r
-10.upperarm_r
-11. clavicle_r  
+1.pelvis  
+2.foot_l  
+3.calf_l  
+4.lowerarm_l  
+5.upperarm_l  
+6.clavicle_l  
+7.foot_r  
+8.calf_r  
+9.lowerarm_r  
+10.upperarm_r  
+11.clavicle_r    
 ○パラメーター  
 ![pelvis](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010152623.png)
 ![foot](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010170231.png)
@@ -37,10 +37,8 @@ Content>Mannequin>Character>Mesh
 ![upperarm](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010174630.png)
 ![clavicle](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20211010/20211010175830.png)
 
+### ○ExculudedBonesの設定
+![ExculudedBones](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshikata1990/20220612/20220612121741.png)
+
 ## ■その他
 動作しない等については概要リンクのブログにてコメントお願い致します。
-
-
-
-
-
