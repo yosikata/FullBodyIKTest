@@ -5,7 +5,9 @@ UE5のFullBodyIKの調整を行ったプロジェクトになります。
 <https://argonauts.hatenablog.jp/entry/2021/10/10/205132>
 
 ## ■更新履歴
-10/10 V1.0.0
+2021/10/10 V1.0.0 プロジェクトの追加  
+2022/06/12 V1.1.0 UE5.0正式版適応とExculudedBones設定追加
+
 
 ## ■開始前の準備
 UE5のFullbodyIKをONにしておく必要があります。  
